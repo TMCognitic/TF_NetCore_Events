@@ -21,8 +21,6 @@
             produit.NotifyHandler += elody.Reagir;
 
             produit.Prix = 13_341.19;
-
-            Console.ForegroundColor
         }
     }
 }
